@@ -11,4 +11,4 @@ if errorlevel 1 exit 1
 rem ---
 
 if not exist "%INSTALL_PATH_BIN%\" mkdir "%INSTALL_PATH_BIN%"
-xcopy /Y /S /E "temp\openssh\*.*" "%INSTALL_PATH_BIN%\"
+xcopy /Y /S /E "output\*.*" "%INSTALL_PATH_BIN%\"
