@@ -3,8 +3,7 @@ Build scripts for compiling [Portable OpenSSH](https://github.com/PowerShell/ope
 
 ## License
 
-Copyright (c) Grigore Stefan
-
+Copyright (c) 2020-2023 Grigore Stefan
 Licensed under the [MIT](LICENSE) license.
 
 **This is a compilation of different works.**

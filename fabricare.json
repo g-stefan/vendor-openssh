@@ -1,0 +1,18 @@
+{
+	"solution": {
+		"name" : "vendor-openssh",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "openssh",
+				"SPDX-License-Identifier": "SSH-OpenSSH",
+				"sourceLink" : "https://github.com/PowerShell/openssh-portable",
+				"version" : "9.1.0.0",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "openssh",
+		"releaseOutput" : true,
+		"hasGithub" : true
+	}
+}
