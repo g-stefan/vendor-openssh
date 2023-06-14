@@ -12,7 +12,6 @@
 			}
 		],
 		"releaseName" : "openssh",
-		"releaseOutput" : true,
-		"hasGithub" : true
+		"releaseOutput" : true
 	}
 }
