@@ -7,7 +7,7 @@
 				"name" : "openssh",
 				"SPDX-License-Identifier": "SSH-OpenSSH",
 				"sourceLink" : "https://github.com/PowerShell/openssh-portable",
-				"version" : "9.2.0.0",
+				"version" : "9.4.0.0",
 				"noVersion" : true
 			}
 		],
